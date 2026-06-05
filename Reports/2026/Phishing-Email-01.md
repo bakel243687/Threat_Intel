@@ -22,6 +22,8 @@ A phishing Email was sent to me to lure me into clicking a button link to a webs
 
 ## 3. Technical Analysis
 
+**Note**: receiver's email - if your email is someone234@gmail.com, then the receiver's email is someone234. Without the domain name.
+
 ### 3.1 Email Delivery Details
 | Header Field | Value |
 | :--- | :--- |
