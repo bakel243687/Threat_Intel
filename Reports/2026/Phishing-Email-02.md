@@ -68,5 +68,5 @@ What should defenders do about this specific threat?
 
 ## 6. References & External Tooling
 * AbuseIPDB Report: `[Link to the IP's AbuseIPDB page]`
-* (VirusTotal Analysis)[https://www.virustotal.com/gui/url-analysis/u-94fa907dfbfed5228ec84ef2877fdb514d771df51fb85d397e8f85248be92c9c-10770121]
-* ThreatFeed Reference: `[Link if matching a known community feed]`
+* [VirusTotal Analysis](https://www.virustotal.com/gui/url-analysis/u-94fa907dfbfed5228ec84ef2877fdb514d771df51fb85d397e8f85248be92c9c-10770121)
+* [ThreatFeed Reference](https://hybrid-analysis.com/sample/3e971bdea6c98c09421ff86b695133e0a26ae1731ac285c5c8fd4ed4d9d88f25)
