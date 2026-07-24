@@ -1,8 +1,8 @@
 # Threat Intelligence Report: [Campaign Name or Theme]
-**Date:** June 4, 2026  
-**Analyst:** [Your Name/Handle]  
-**Severity:** [Low / Medium / High]  
-**Status:** [Active / Contained / Mitigated]
+**Date:** June 24, 2026  
+**Analyst:** RD7  
+**Severity:** [Low]  
+**Status:** [Active]
 
 ---
 
