@@ -4,13 +4,13 @@ Active tracking, analysis, and documentation of emergent cyber threats, maliciou
 
 ---
 
-## 📌 Repository Overview
+## Repository Overview
 
 Welcome to my Threat Intelligence repository. This project serves as a public portfolio and a centralized database for my independent security research, open-source intelligence (OSINT) investigations, and malware/phishing analysis. 
 
 The primary goal of this repository is to share actionable **Indicators of Compromise (IoCs)** and deep-dive threat reports to help network defenders, system administrators, and fellow security analysts protect their environments.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 ├── README.md               # Repository landing page and documentation
