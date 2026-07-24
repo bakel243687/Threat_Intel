@@ -47,15 +47,14 @@ Detail the sender's IP address and what you found when you cross-referenced it.
 ### Network Indicators
 | Type | Value | Description |
 | :--- | :--- | :--- |
-| IP | `192.0.2[.]1` | Sender IP / Phishing Source |
-| Domain | `malicious-domain[.]com` | Domain found in email body / link |
-| URL | `hxxps://malicious-domain[.]com/login` | Exact credential harvesting link |
+| IP | `54.240.14[.]56` | Sender IP / Phishing Source |
+| Domain | `em.gainrep[.]com` | Domain found in email body / link |
+| URL | `hxxps://em.gainrepmail.com/CL0/hxxps:/www.gainrep.com/Signin%3Fa=55d87064-f04d-4c63-b6df-414235783839&i=c4a62d12-7a2f-404e-9d97-d1bb9029a2a9/1/0100019f92c13cc1-79d0ac42-926d-4c07-ba04-ab8d1a054561-000000/szkFc5JBR24-40jTbu7IbgNYNxd1EoX_VjU6XBzi8ZA=452` | Exact credential harvesting link |
 
 ### Email Indicators
 | Type | Value | Description |
 | :--- | :--- | :--- |
-| Sender Email | `attacker@spoofed-domain[.]com` | Envelope sender address |
-| SHA256 (Attachment) | `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855` | Hash of malicious attachment (if applicable) |
+| Sender Email | `noreply@gainrepmail.com` | Envelope sender address |
 
 ---
 
@@ -69,5 +68,5 @@ What should defenders do about this specific threat?
 
 ## 6. References & External Tooling
 * AbuseIPDB Report: `[Link to the IP's AbuseIPDB page]`
-* VirusTotal Analysis: `[Link to URL/IP analysis if scanned]`
+* (VirusTotal Analysis)[https://www.virustotal.com/gui/url-analysis/u-94fa907dfbfed5228ec84ef2877fdb514d771df51fb85d397e8f85248be92c9c-10770121]
 * ThreatFeed Reference: `[Link if matching a known community feed]`
