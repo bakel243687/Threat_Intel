@@ -7,16 +7,15 @@
 ---
 
 ## 1. Executive Summary
-Provide a 2-3 sentence overview of what happened. Who was targeted, what was the lure, and what is the ultimate goal of the attack if known (e.g., credential theft, malware delivery).
-*Example: A targeted phishing campaign utilizing a fake invoice lure was observed targeting corporate inboxes. The campaign attempts to direct victims to a credential harvesting page hosted on compromised infrastructure.*
+I received an email a couple of times from an organization I've not heard of, Gainrep. Now, I don't have any of my gmails connected to their mail service which was suspicious. From my little investigation, below are all I found.
 
 ---
 
 ## 2. Threat Actor & Campaign Details
-* **Estimated Threat Actor:** [Unknown / Known Group Name]
-* **Target Industry/Region:** [e.g., General, Financial, Tech / Global]
+* **Estimated Threat Actor:** Unknown
+* **Target Industry/Region:** General
 * **Delivery Method:** Email (Phishing)
-* **Objective:** [Credential Harvesting / Malware Drop / Financial Fraud]
+* **Objective:** Credential Harvesting / Malware Drop
 
 ---
 
@@ -27,16 +26,16 @@ Document the metadata pulled from the email headers here.
 
 | Header Field | Value |
 | :--- | :--- |
-| **Subject Line** | `[Insert Subject Line Here]` |
-| **Display Name** | `[Insert Spoofed Name]` |
-| **Sender Address** | `badguy@example[.]com` |
-| **Return-Path** | `bounce-handler@example[.]com` |
-| **Authentication Status** | SPF: [Pass/Fail] \| DKIM: [Pass/Fail] \| DMARC: [Pass/Fail] |
+| **Subject Line** | `Endorse someone's name - Today's date` |
+| **Display Name** | `Gainrep` |
+| **Sender Address** | `noreply@gainrepmail[.]com` |
+| **Return-Path** | `0100019f6e98c9a3-2606c4e2-ebb7-4d3c-be6f-7509ca92099a-000000@amazonses[.]com` |
+| **Authentication Status** | SPF: [Pass] \| DKIM: [Pass] \| DMARC: [Pass] |
 
 ### 3.2 Infrastructure & Network Analysis
 Detail the sender's IP address and what you found when you cross-referenced it.
-* **Sender IP Address:** `192.0.2[.]1` *(Always defanged)*
-* **ASN / ISP:** [e.g., AS16509 / Amazon.com, Inc.]
+* **Sender IP Address:** `54.240.14[.]56` *(Always defanged)*
+* **ASN / ISP:** AS16509 / Amazon.com, Inc
 * **Geolocation:** [e.g., United States]
 * **IP Reputation:** Flagged on [AbuseIPDB / VirusTotal / Cisco Talos] with a abuse score of [X%]. Associated with historical phishing activities dating back to [Date].
 
