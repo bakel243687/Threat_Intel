@@ -1,4 +1,4 @@
-# Threat Intelligence Report: [Campaign Name or Theme]
+# Threat Intelligence Report: Gainrep Spam Mail
 **Date:** June 24, 2026  
 **Analyst:** RD7  
 **Severity:** [Low]  
